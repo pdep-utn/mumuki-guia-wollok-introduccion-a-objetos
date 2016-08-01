@@ -6,4 +6,5 @@ beta: false
 teacher_info: Vamos a dar los primeros pasos en objetos
 language: wollok
 id_format: '%05d'
-order: []
+order:
+- 1

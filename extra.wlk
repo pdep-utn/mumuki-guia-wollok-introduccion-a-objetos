@@ -3,41 +3,44 @@ object tarta {
   var cantidadDeFruta = 4
   var fruta = manzana
   
-  method peso() {
+  method cuantoPesas() {
     return pesoInicial + cantidadDeFruta * fruta.peso()
   }
-  method esSabrosa() {
+  method sosSabrosa() {
     return cantidadDeFruta > 2 
   }
   method cuantasManzanas() {
     return cantidadDeFruta 
   }
-  method color() {
-    return fruta.color()
+  method deQueColorSos() {
+    return fruta.deQueColorSos()
   }
 }
 
 object caperucita {
-  var canasta = tartaDeManzanas
+  var canasta = tarta
    
   method aDondeVas() {
     return "A casa de mi abuelita"
   }
-  method peso() {
-    return 60 + canasta.peso() 
+  method cuantoPesas() {
+    return 60 + canasta.cuantoPesas() 
   }
   
-  method deQueColorEsLoQueLlevas() {
+  method comoEstas() {
+    return "Contenta de venir a una clase en la facultad"
+  }
+  method deQueColorEsLoQueLlevasEnLaCanasta() {
     return canasta.color() 
   }
   
 }
 
 object manzana {
-  method color() {
+  method deQueColorSos() {
     return "Rojo"
   }
-  method peso() {
+  method cuantoPesas() {
     return 0.5 
   }
 }
@@ -45,10 +48,10 @@ object manzana {
 object limon {
   var tamanio = 2
   
-  method color() {
+  method deQueColorSos() {
     return "Amarillo"
   }
-  method peso() {
+  method cuantoPesas() {
     return tamanio* 0.1
   }
   

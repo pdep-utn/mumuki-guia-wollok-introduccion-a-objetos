@@ -17,15 +17,16 @@ Primero, la saludamos
 
 Le podemos preguntar
 ```
-ム caperucita.aDondeVas()
+ム caperucita.vasACasaDeTuAbuelita()
 
 ```
 Podriamos ser mas curiosos
 
 ```
 ム caperucita.deQueColorEsLoQueLlevasEnLaCanasta()`
+
 ```
-Pensando en el lobo feroz, tal vez le interese saber
+A riesgo de adelantarnos en la historia, tal vez nos interese averiguar
 ```
 ム caperucita.cuantoPesas()`
 ```

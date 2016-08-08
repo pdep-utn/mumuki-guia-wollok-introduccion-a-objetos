@@ -20,8 +20,8 @@ object tarta {
 object caperucita {
   var canasta = tarta
    
-  method aDondeVas() {
-    return "A casa de mi abuelita"
+  method vasACasaDeTuAbuelita() {
+    return true
   }
   method cuantoPesas() {
     return 60 + canasta.cuantoPesas() 

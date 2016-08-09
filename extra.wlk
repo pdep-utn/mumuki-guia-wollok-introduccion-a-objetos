@@ -4,7 +4,7 @@ object tarta {
   var fruta = manzana
   
   method cuantoPesas() {
-    return pesoInicial + cantidadDeFruta * fruta.peso()
+    return pesoMasa + cantidadDeFruta * fruta.peso()
   }
   method sosSabrosa() {
     return cantidadDeFruta > 2 

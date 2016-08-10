@@ -1,3 +1,3 @@
 test "blancanieves" {
-  assert.equals(espejoMagico.quienEsLaMasBellaDelReino(),"Blancanieves")
+  assert.equals(espejoMagico.quienEsLaMasBellaDelReino(),"Blancanieves)
 }

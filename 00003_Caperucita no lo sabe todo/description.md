@@ -9,5 +9,5 @@ En este caso, se trata del error más típico: Tal objeto no entiende tal mensaj
 Moraleja: Como dice el viejo y conocido refrán, "no le pidas peras al olmo"
 
 ___
-Proba hacer otras preguntas que también den un error similar. 
+Probá hacer otras preguntas que también den un error similar. 
 

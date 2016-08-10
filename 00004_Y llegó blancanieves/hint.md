@@ -1,4 +1,4 @@
-no olvidar:
-object para definir a espejoMagico
+no olvidar las palabras reservadas:
+object para definir al objeto espejoMagico
 method para el metodo quienEsLaMasBellaDelReino(),
-return para indicar que retorne "Blancanieves"
+return para indicar que retorne "la reina malvada"

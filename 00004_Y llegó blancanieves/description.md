@@ -41,5 +41,5 @@ ___
 
 Si quisieramos que funcione el mensaje que anteriormente daba error, podriamos definir un nuevos metodo al objeto caperucita. Seria posible y sencillo, pero pensandolo mejor no tiene mucho sentido que sea Caperucita quien responda, sino otro personaje...  
 
-Definir a un objeto espejoMagico, que sepa responder al mensaje quienEsLaMasBellaDelReino() y nos responda que es "Blancanieves"
+Definir un objeto para representa al espejo magico, que sepa decir quien es la mas bella del reino y nos responda que es la reina malvada
 

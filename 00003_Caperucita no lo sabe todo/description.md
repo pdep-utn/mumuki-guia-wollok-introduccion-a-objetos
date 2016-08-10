@@ -1,6 +1,6 @@
 Nos estamos confundiendo de cuento... 
 
-Como nos imaginábamos, era una pregunta que no tenian que ver con Caperucita, y por lo tanto no la sabe responder.
+Como nos imaginábamos, era una pregunta que no tenian que ver con Caperucita sino con Blancanieves, y por lo tanto no la sabe responder.
 
 Si a un objeto le enviamos un mensaje que no forma parte de su comportamiento, nuestro programa falla.
 No obtenemos una respuesta razonable, sino que lo que vemos es un error. 

@@ -1,6 +1,6 @@
 El motivo por el cual Caperucita sabe responder a algunos mensajes y otros no, es porque cuando definimos el objeto que la representa, indicamos qué y cómo responder.
 
-Un objeto se define con un nombre y una serie de porciones de codigo que se denominan metodos, que indican qué mensajes puede responer y describen la manera en que lo hacen.
+Un objeto se define con un nombre y una serie de porciones de codigo que se denominan metodos, que indican qué mensajes puede responder y describen la manera en que lo hacen.
 
 Por ejemplo, para que Caperucita pueda responder a las preguntas anteriores, tiene que estar definido lo siguiente:
 
@@ -41,5 +41,5 @@ ___
 
 Si quisieramos que funcione el mensaje que anteriormente daba error, podriamos definir un nuevos metodo al objeto caperucita. Seria posible y sencillo, pero pensandolo mejor no tiene mucho sentido que sea Caperucita quien responda, sino otro personaje...  
 
-Definir un objeto para representa al espejo magico, que sepa decir quien es la mas bella del reino y nos responda que es la reina malvada
+Definir un objeto para representar al espejo magico, que sepa decir quien es la mas bella del reino y nos responda que es la reina malvada
 

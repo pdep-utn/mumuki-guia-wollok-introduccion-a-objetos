@@ -8,6 +8,7 @@ Vamos a ampliar lo que veníamos diciendo de los mensajes:
 
 Para que todo esto sea posible, el objeto que representa al lobo puede estar definido de esta manera
 
+```scala
 object lobo {
    var ubicacion = "bosque"
    
@@ -19,5 +20,22 @@ object lobo {
       ubicacion = "casa de la abuela"
    }
   }
-   
-   
+```
+
+Para recordar en todo momento el lugar donde esta, el lobo tiene una variable denominada ubicacion. Su valor inicial es el bosque, pero en el metodo andaALaCasaDeLaAbuela su valor se modifica. 
+Como el metodo dondeEstas en vez de un valor puntual devuelve la variable ubicacion, lo que obtenemos como respuesta es el valor referenciado en esa variable en el momento en que le preguntemos.
+
+Las variables son identificadores que en un momento hacen referencia a un valor y en otro momento hacen referencia a otro.
+La manera en que una variabla cambia su valor es mediante una asignación.
+
+Tomemos nota de la sintaxis:
+- con var declaramos una variable
+- el = indica una asignación; a la izquierda va la varible, a la derecha lo que queremos asignar.
+- al declarar una variable le podemos asignar un valor inicial
+- para indicar que el metodo no retorna nada no hacemos nada especial, simplemente no aparece el return.
+ 
+
+
+
+  
+  
